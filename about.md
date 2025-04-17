@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+I am a fourth year computer engineer student from Norway, currently on exchange here in Brisbane, Australia. In this blog I will present my learning about FastAI and how it can be use to effectively train a deep learning model.
