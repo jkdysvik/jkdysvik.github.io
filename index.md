@@ -1,5 +1,5 @@
 
-![](images/IMG_1905.jpg)
+![](images/logo.png) ![](images/IMG_1905.jpg)
 
 ## Jonathan Dysviks Blog
 
